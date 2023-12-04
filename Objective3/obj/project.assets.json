@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\Array\\Objective3\\Objective3.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\arrays\\Objective3\\Objective3.csproj",
       "projectName": "Objective3",
-      "projectPath": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\Array\\Objective3\\Objective3.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\arrays\\Objective3\\Objective3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\Array\\Objective3\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\geekbrains\\разработчик\\2. Знакомсво с языками программирования\\ДЗ\\Массивы\\arrays\\Objective3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -7,7 +7,7 @@ class Program
 {
     static void Main()
     {
-        double[] array = { 12.34, 56.78, 23.45, 89.01, 34.56, 67.89 };
+        double[] array = { 12.3, 52.4, 25.5, 78.1, 34.6, 89.7 };
 
         Console.WriteLine("Исходный массив:");
         PrintArray(array);
