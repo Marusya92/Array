@@ -14,6 +14,7 @@ class Program
 
         int countInRange = CountElementsInRangeWithFor(array, 20, 90);
 
+        Console.WriteLine($"Количество элементов в отрезке [20, 90]: {countInRange}");
     }
 
     static int CountElementsInRangeWithFor(int[] array, int min, int max)
@@ -38,7 +39,7 @@ class Program
             Console.Write(number + " ");
         }
 
-        Console.WriteLine($"Количество элементов в отрезке [20, 90]: {countInRange}");
+        Console.WriteLine();
     }
 
 }
